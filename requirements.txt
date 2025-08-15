@@ -1,0 +1,14 @@
+pillow
+tensorflow
+transformers
+matplotlib
+datasets
+scikit-learn
+tf-keras
+shap
+torch
+torchvision
+torchaudio
+accelerate>=0.26.0
+evaluate
+ipython
